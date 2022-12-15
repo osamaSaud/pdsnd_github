@@ -14,5 +14,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-add Credits
+add Credit
 
